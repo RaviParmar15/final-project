@@ -141,3 +141,56 @@ input::placeholder{
     padding-bottom: 20px;
    
 }
+.social-icon{
+    height: 55px;
+    background-color: #e2e2e5;
+    padding: 10px;
+}
+.social-icon i{
+    font-size: 32px;
+    padding: 10px;
+
+}
+.s-icon{
+    float: right;
+    padding-right: 50px;
+
+}
+.flag-img img{
+    width: 50px;
+    margin-right: 20px;
+}
+.main-footer-bar {
+    border-bottom: 1px solid #33333329;
+    display: flex;
+    padding: 20px;
+    margin-left: 40px;
+}
+.f-l{
+    margin: 20px;
+    text-decoration: none;
+    font-size: 13px;
+    color: #1f1f24;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.payment{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #33333329;
+    margin-left: 40px;
+}
+.p p{
+    font-size: 11px;
+    text-align: start;
+    color: #666666;
+    padding: 20px 0px;
+    border-bottom: 1px solid #33333329;
+    margin-left: 40px;
+}
+.copyright{
+    padding: 15px;
+}
+
